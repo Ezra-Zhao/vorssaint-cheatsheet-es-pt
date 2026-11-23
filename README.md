@@ -1,5 +1,7 @@
 # Vorssaint 速查表 | Vorssaint Cheatsheet | Guía rápida de Vorssaint
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 > 一页看懂 Vorssaint：一个免费开源的 macOS 菜单栏图标，装下 Mac 用户平时一个一个买的那串小工具——按应用调音量、真系统监控、更好的应用切换器与窗口吸附、Dock 预览、剪贴板历史、文本片段、截图录屏、卸载器与 Homebrew 管理，外加给刘海屏的 Dynamic Island（还能盯着 Claude、Codex、Copilot 的额度，长任务跑完提醒你）。无账号、无遥测、无订阅；只装你用的，用不上的功能不加载、不占资源、不跟你要权限。
 
 - 上游项目：[vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)（2026-11-02 实测 32,437 ★ / 1,566 forks，94 个 release，GPL-3.0；名称与 logo 是商标）
